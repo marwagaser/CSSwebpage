@@ -60,7 +60,7 @@ margin-top: 30px;
   border:1px solid white;
   transition-duration: 0.5s
 }
-.menu{
+.header{
 position: relative;
 z-index: 1;
 width: 100%;
